@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sarosh4271
 - 👀 I’m interested in ... Development
-- 🌱 I’m currently learning ... Flutter
 - 💞️ I’m looking to collaborate on ... Mobile App Development with Flutter
 - 📫 How to reach me ... sarosh4271@gmail.com
 
